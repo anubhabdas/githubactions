@@ -1,2 +1,2 @@
+const value = '2';
 console.log("value is", value);
-const value = 2
